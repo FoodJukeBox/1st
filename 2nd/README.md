@@ -27,3 +27,6 @@ KIST와 함께 최적의 생육 환경 도출을 위한 AI 모델을 만들어 �
 
 ## 4. 참가 대상
 일반인, 학생, 직장인 등 누구나 참가 가능
+
+## 5. 데이터
+https://drive.google.com/drive/folders/1KkUzUu25H1yJN8Ti61n-YgEy9uqzO98Q?usp=sharing
