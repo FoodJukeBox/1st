@@ -30,3 +30,6 @@ KIST 강릉분원은 인공지능 (AI)를 활용하여 국내 고유 식물자�
 
 ## 4. 참가 대상
 일반인, 학생 등 누구나
+
+## 5. 데이터
+https://drive.google.com/drive/folders/1vMKPD2O0Dlgs4OZD4lWpo3ynEs_9XYq1?usp=sharing
