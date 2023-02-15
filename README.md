@@ -20,4 +20,4 @@
 
 ## 3. 과제 결과물
 - 본 과제의 결과물로 4차례의 데이터 경진대회를 실시하였으며, 각 대회의 폴더에서 수상자들의 코드를 확인 할 수 있습니다.
-- 추가로 본 과제의 결과물인 식물생육 및 재배환경 데이터셋은 다음 구글 드라이브(https://drive.google.com/drive/folders/1gpFHzL6PLnHq-WNdUDRKXKNLjTUbtMi0?usp=sharing)에서 확인할 수 있습니다. 
+- 본 과제의 결과물인 식물생육 및 재배환경 전체 데이터셋은 다음 구글 드라이브(https://drive.google.com/drive/folders/1gpFHzL6PLnHq-WNdUDRKXKNLjTUbtMi0?usp=sharing)에서 확인할 수 있습니다. 
